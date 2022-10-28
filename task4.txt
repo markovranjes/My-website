@@ -1,0 +1,17 @@
+commit d6aec05ccf36f5c99a18dfe1fa8d8628ca2ca354
+Author: Marko <markovranjes2909@gmail.com>
+Date:   Mon Oct 17 23:22:28 2022 +0200
+
+    next step
+
+commit 2f788fa148bd740ae691520c12223979dd2bb09d
+Author: Marko <markovranjes2909@gmail.com>
+Date:   Mon Oct 17 23:21:13 2022 +0200
+
+    adding indeksic
+
+commit f6292282d04d487dd4aea08687a36841a2a7ab3c
+Author: Marko <markovranjes2909@gmail.com>
+Date:   Mon Oct 17 23:18:03 2022 +0200
+
+    nja
